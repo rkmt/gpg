@@ -1,2 +1,2 @@
 # gpg
-my gpg public file
+Rekimoto (rekimoto@acm.org)'s gpg public file
